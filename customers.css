@@ -1,0 +1,108 @@
+
+.image{
+
+    height: 1600px; background-size: cover; width: auto;
+    background-image: url("bimg7.jpg");
+    background-position: 50% 50%; background-attachment: fixed;
+
+
+}
+
+
+#tableh{
+    
+    width: 55%;
+    text-align: center;
+}
+
+#tableb{
+   
+    
+    width: 55%;
+    text-align: center;
+}
+
+/* navbar css starts here  */
+.bg-light{
+    /*background-color: #f2e9e4!important;*/
+   
+    /*background-color: #333;*/
+}
+
+.navbar-brand{
+    font-family: Old English Text MT;
+    font-size: 2.5rem;
+    color: #5f6368!important;
+    
+}
+
+.nav-link{
+    color: #5f6368!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+/* navbar css ends here  */
+
+#box{
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 450px;
+    margin-right: 450px;
+    box-shadow: 1px 1px 5px black;
+    padding: 4px;
+    background-color: whitesmoke;
+    border-top-left-radius: 10px ;
+    border-top-right-radius: 10px ;
+    border-bottom-left-radius: 10px ;
+    border-bottom-right-radius: 10px ;
+    box-shadow: 1px 1px 10px black;
+    opacity: 0.9;
+}
+
+.my-info{
+    padding: 2rem 5rem;
+    border: 15px;
+    margin: 15px;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(78, 153, 223)!important;
+    color: #fff!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(67, 83, 230)!important;
+}
+
+#c1{
+    border-top-left-radius: 20px;
+    font-size: 23px;
+      
+}
+#c2{
+    font-size: 23px;
+}
+
+#c3{
+    font-size: 23px;
+}
+
+#c4{
+    border-top-right-radius: 20px;
+    font-size: 23px;
+   
+}
+#c6{
+    border-bottom-right-radius: 20px;     
+}
+#c5{
+    border-bottom-left-radius: 20px; 
+}
